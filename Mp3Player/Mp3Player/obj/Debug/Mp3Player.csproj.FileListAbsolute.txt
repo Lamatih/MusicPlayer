@@ -1,0 +1,16 @@
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe.config
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\bin\Debug\Mp3Player.exe
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\bin\Debug\Mp3Player.pdb
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.AssemblyReference.cache
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Form1.resources
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.Properties.Resources.resources
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.exe
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.pdb
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Fatih\source\repos\Mp3Player\Mp3Player\obj\Debug\Mp3Player.csproj.ResolveComReference.cache
